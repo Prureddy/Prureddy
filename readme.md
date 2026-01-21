@@ -1,5 +1,5 @@
 # Hi I am Pruthvi S 
-🔭 I’m currently working on the Machine Learning and Genarative Ai <br>👯 I’m looking to collaborate on machine-learning projects<br>🌱<br>💬 Ask me about machine learning, front-end web development,java, python<br>⚡ Fun fact me 
+🔭 I’m currently working on the  Genarative AI and Agentic AI <br>👯 <br>💬 Ask me about machine learning, Deep Learning, Generative AI,Agentic AI<br>⚡ Fun fact me 
 <img src = "https://camo.githubusercontent.com/f3ab2121443ceb480c393145498e4640afc961528fb3c7b0a0ae74dd420ec71d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966" alt ="img.com" width = 100%>
 
 
