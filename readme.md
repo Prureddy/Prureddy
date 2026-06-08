@@ -121,18 +121,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
-## 📌 Featured Projects
-
-| 🚀 Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[Credit Card Fraud Detection](https://github.com/Prureddy/Credit-Card-Fraud-Detection)** | Supervised ML model to flag fraudulent transactions while minimizing false positives, trained on real-world transaction data. | `Python` `scikit-learn` |
-| **[Personal Portfolio](https://github.com/Prureddy)** | Personal portfolio site showcasing skills, projects & achievements. | `React` `Node.js` `SASS` |
-| **[➕ More on my GitHub](https://github.com/Prureddy?tab=repositories)** | Explore all my repositories. | |
-
-> 💡 Replace the links/rows above with your favourite repos. A table like this always renders — unlike pin cards, which use a rate-limited service.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
