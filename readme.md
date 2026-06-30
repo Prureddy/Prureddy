@@ -1,131 +1,162 @@
-<!-- ===== HEADER BANNER ===== -->
+<!-- ===== HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pruthvi%20S&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Agentic%20AI%20for%20Healthcare%20%40%20DScribe&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Pruthvi%20S&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20for%20Healthcare%20%40%20DScribe&descAlignY=58&descSize=17&descColor=8b949e" width="100%"/>
 
-<!-- Typing animation -->
 <a href="https://github.com/Prureddy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+DScribe+%F0%9F%A5%BC;Building+Agentic+AI+for+Healthcare+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+Multi-Agent+Systems+%E2%9A%A1;LLM+Finetuning+%7C+Voice+AI+%7C+OCR+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🤖+AI+Engineer+%40+DScribe;🏥+Agentic+AI+for+Healthcare;⚡+LLMs+%7C+RAG+%7C+Multi-Agent+Systems;🧠+LLM+Finetuning+%7C+Voice+AI+%7C+OCR" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Header badges -->
-<img src="https://komarev.com/ghpvc/?username=Prureddy&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Prureddy&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+&nbsp;
 <a href="https://github.com/Prureddy?tab=followers">
-  <img src="https://img.shields.io/github/followers/Prureddy?label=Followers&style=for-the-badge&color=F85D7F&logo=github&logoColor=white" alt="followers" />
+<img src="https://img.shields.io/github/followers/Prureddy?label=Followers&style=social" alt="followers" />
 </a>
-<a href="https://www.linkedin.com/in/pruthvi-s-296416232/">
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-1f6feb?style=for-the-badge&logo=handshake&logoColor=white" alt="open to collaborate" />
-</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Healthcare%20AI-58a6ff?style=flat&logo=heart&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-2ea44f?style=flat&logo=handshake&logoColor=white" />
 
 </div>
 
-<!-- divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👨‍💻 About Me
 
-<!-- To make this GIF show: open this README in GitHub's editor, then DRAG your gif
-     into the text area. GitHub uploads it and replaces the src with a permanent
-     github.com/user-attachments/... URL that never breaks. -->
-<img align="right" alt="Coding" width="380" src="assets/coding.gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
 
-- 🔭 I'm an **AI Engineer @ DScribe**, building **Agentic AI for Healthcare**
+- 🔭 **AI Engineer @ DScribe** — building Agentic AI for Healthcare
 - 🏥 Working on **LLMs, RAG, Multi-Agent Systems, Voice AI & OCR** for real hospitals
-- 🛠️ I build production AI: discharge-summary automation, handwritten OCR, RAG pipelines
-- 🌱 Currently exploring **Google Agent Development Kit (ADK)** & advanced agent orchestration
-- 💬 Ask me about **Generative AI, Agentic AI, LLM Finetuning, Machine Learning & Deep Learning**
-- 🎓 B.Tech in Computer Science — Dayananda Sagar University
-- ⚡ Fun fact: I love turning research ideas into working AI prototypes that ship
+- 🛠️ Production AI: discharge-summary automation, handwritten OCR, RAG pipelines
+- 🌱 Exploring **Google Agent Development Kit (ADK)** & advanced agent orchestration
+- 💬 Ask me about **GenAI · Agentic AI · LLM Finetuning · MLOps**
+- 🎓 B.Tech CS — Dayananda Sagar University
+- ⚡ Fun fact: I turn research papers into shipped products
 
 <br clear="both"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvi-s-296416232/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_pruthvi_reddy_116)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pruthvisreddy11)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pruthvisreddy@dscribe.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvi-s-296416232/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_pruthvi_reddy_116)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pruthvisreddy11)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pruthvisreddy@dscribe.in)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,pytorch,fastapi,django,react,nodejs,ts,js,java,aws,azure,redis,docker,git,linux,firebase&perline=9" />
+### Core Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,django,react,nodejs,ts,js&perline=10" />
 
-</div>
+### Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,redis,git,linux,firebase,java&perline=10" />
 
-#### 🤖 Generative & Agentic AI
+### 🤖 Generative & Agentic AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏥 What I'm Building
 
-- **Healthcare AI @ DScribe** — Agentic AI that turns handwritten doctor case sheets into hospital discharge summaries, cutting documentation time by ~80% with 90%+ accuracy
-- **Multi-Agent Platforms** — Orchestration routing queries across RAG retrieval, NER lead extraction, scheduling & recommendation agents
-- **LLM Finetuning** — Fine-tuned Mistral 7B, Phi-3, LLaMA 3.2 & LLaMA 2 using LoRA / QLoRA (Unsloth, DeepSpeed, Predibase)
-- **Voice AI & Automation** — Voice agents, blog-to-audio narration, and n8n-based content automation pipelines
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+**🏥 Healthcare AI @ DScribe**
+Agentic AI that converts handwritten doctor case sheets → structured discharge summaries. Cuts documentation time **~80%** with **90%+ accuracy**.
+
+</td>
+<td width="50%">
+
+**🤖 Multi-Agent Platforms**
+Orchestration systems routing queries across RAG retrieval, NER lead extraction, scheduling & recommendation agents.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🧠 LLM Finetuning**
+Fine-tuned Mistral 7B, Phi-3, LLaMA 3.2 & LLaMA 2 using LoRA / QLoRA (Unsloth, DeepSpeed, Predibase).
+
+</td>
+<td width="50%">
+
+**🎙️ Voice AI & Automation**
+Voice agents, blog-to-audio narration pipelines, and n8n-based content automation workflows.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Highlights
 
-- 🥇 **1st Prize — DDT Hackathon 2024** (Energy Institute Bengaluru × NASSCOM CoE) — ₹60K
-- 🏅 **AIML Track Winner — Aventus 2.0** for a PetCare AI platform
-- ☁️ **NPTEL Cloud Computing** certified
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+| 🥇 Achievement | 📍 Event | 💰 Prize |
+|---|---|---|
+| **1st Prize** | DDT Hackathon 2024 — Energy Institute Bengaluru × NASSCOM CoE | ₹60,000 |
+| **AIML Track Winner** | Aventus 2.0 — PetCare AI Platform | 🏅 |
+| **NPTEL Certified** | Cloud Computing | ☁️ |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prureddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prureddy&theme=radical&hide_border=false&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prureddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prureddy&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prureddy&theme=radical&hide_border=false" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prureddy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
-### 📌 Profile Summary
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prureddy&theme=radical" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prureddy&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prureddy&theme=radical" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prureddy&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prureddy&theme=radical&utcOffset=5.5" />
+<img src="https://github-profile-trophy.vercel.app/?username=Prureddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Prureddy/Prureddy/output/snake.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prureddy/Prureddy/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prureddy/Prureddy/output/snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Prureddy/Prureddy/output/snake.svg" />
+</picture>
 
 </div>
 
@@ -133,33 +164,29 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prureddy&theme=redical&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prureddy&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prureddy&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
 
+<br/>
+
 💡 *"Everyone's timeline is different. Keep learning, keep building."*
 
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!+⭐&fontSize=20&fontColor=58a6ff&animation=fadeIn" width="100%"/>
+
+</div>
