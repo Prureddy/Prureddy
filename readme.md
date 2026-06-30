@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Pruthvi%20S&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20for%20Healthcare%20%40%20DScribe&descAlignY=58&descSize=17&descColor=8b949e" width="100%"/>
 
 <a href="https://github.com/Prureddy">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🤖+AI+Engineer+%40+DScribe;🏥+Agentic+AI+for+Healthcare;⚡+LLMs+%7C+RAG+%7C+Multi-Agent+Systems;🧠+LLM+Finetuning+%7C+Voice+AI+%7C+OCR" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🤖+AI+Engineer+%40+DScribe;🏥+Agentic+AI+for+Healthcare;⚡+LLMs+%7C+RAG+%7C+Multi-Agent+Systems;🧠+LLM+Finetuning+%7C+Voice+AI+%7C+OCR;🚀+FastAPI+%7C+Flask+%7C+Django" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -57,7 +57,7 @@
 <div align="center">
 
 ### Core Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,django,react,nodejs,ts,js&perline=10" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,flask,django,react,nodejs,ts,js&perline=11" />
 
 ### Cloud, DevOps & Tools
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,redis,git,linux,firebase,java&perline=10" />
@@ -141,7 +141,7 @@ Voice agents, blog-to-audio narration pipelines, and n8n-based content automatio
 |---|---|---|
 | **1st Prize** | DDT Hackathon 2024 — Energy Institute Bengaluru × NASSCOM CoE | ₹60,000 |
 | **AIML Track Winner** | Aventus 2.0 — PetCare AI Platform | 🏅 |
-| **NPTEL Certified** | Cloud Computing | ☁️ |
+| **Runner-Up** | ANZ Hackathon | 🥈 |
 
 </div>
 
