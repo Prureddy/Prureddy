@@ -75,11 +75,23 @@
 ![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white)
 
-#### 🧠 Models & Vector Stores
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+#### 🤖 LLM Models
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![LLaMA](https://img.shields.io/badge/Meta%20LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Phi](https://img.shields.io/badge/Microsoft%20Phi-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+
+#### 🗄️ Vector Databases
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00A3E0?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+#### ⚙️ Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
@@ -139,12 +151,12 @@ Voice agents, blog-to-audio narration pipelines, and n8n-based content automatio
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prureddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Prureddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prureddy&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prureddy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prureddy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
@@ -154,7 +166,7 @@ Voice agents, blog-to-audio narration pipelines, and n8n-based content automatio
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prureddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=Prureddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
